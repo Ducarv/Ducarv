@@ -21,6 +21,7 @@ Enthusiast of the web development technologies. University student of Software E
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat&logo=solid)&nbsp;
 
 
 ## 🌐 &nbsp;Social Links
