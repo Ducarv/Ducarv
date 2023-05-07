@@ -22,6 +22,10 @@ Enthusiast of the web development technologies. University student of Software E
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat&logo=solid)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+![Socketio](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=oop)&nbsp;
 
 
 ## 🌐 &nbsp;Social Links
