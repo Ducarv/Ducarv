@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducarv&label=Profile%20views&color=0e75b6&style=flat" alt="ducarv" /> </p>
 
-- 🌱 I’m currently learning *NextJS*, *GCP*, *Design System* and *Ionic*
+- 🌱 I’m currently learning **NextJS, GCP, Design System and Ionic**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ducarv](https://github.com/Ducarv)
 
