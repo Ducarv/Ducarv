@@ -23,7 +23,7 @@
 
 I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin and blockchain technologies. I love developing open-source projects that empower decentralization and financial sovereignty.
 
-- 🌱 Currently learning **Linux, Kernel, C/C++, Rust (Bitcoin Protocol Development)**
+- 🌱 Currently learning **Linux, Kernel, C/C++, Rust, Go (Bitcoin Protocol Development)**
 - 💼 Working on **Bitcoin-related open source projects**
 - 💬 Ask me about **Bitcoin Script, Layer 2 Solutions, Node Implementation**
 
@@ -35,6 +35,7 @@ I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin and block
 - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 - ![Lightning](https://img.shields.io/badge/Lightning_Network-9898FF?style=for-the-badge&logo=lightning&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Core Technologies
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
