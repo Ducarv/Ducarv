@@ -42,6 +42,7 @@ I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin and block
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Elixir](https://img.shields.io/badge/Elixir-634072?style=for-the-badge&logo=elixir&logoColor=white)
 
 ### Web Development
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
