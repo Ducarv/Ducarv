@@ -30,8 +30,6 @@ I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin. I love d
 ---
 
 ## 🚀 Tech Stack
-
-### Development
 - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 - ![Lightning](https://img.shields.io/badge/Lightning_Network-9898FF?style=for-the-badge&logo=lightning&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
