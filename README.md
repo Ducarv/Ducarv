@@ -23,7 +23,7 @@
 
 I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin. I love developing open-source projects that empower decentralization and financial sovereignty.
 
-- 🌱 Currently learning **Bitcoin, Linux, C/C++, Rust and Python**
+- 🌱 Currently learning **Bitcoin, Linux and C**
 - 💼 Working on **Bitcoin-related projects**
 - 💬 Ask me about **Bitcoin, Layer 2 Solutions, Node Implementation**
 
@@ -32,10 +32,7 @@ I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin. I love d
 ## 🚀 Tech Stack
 - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 - ![Lightning](https://img.shields.io/badge/Lightning_Network-9898FF?style=for-the-badge&logo=lightning&logoColor=white)
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
