@@ -29,20 +29,6 @@ I'm Eduardo, a passionate Software Engineer deeply immersed in Bitcoin. I love d
 
 ---
 
-## 🚀 Tech Stack
-- ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-- ![Lightning](https://img.shields.io/badge/Lightning_Network-9898FF?style=for-the-badge&logo=lightning&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## 💬 Quote
-
-> "Numbers are the closest thing we have to the laws of physics in Bitcoin."  
-> — Satoshi Nakamoto
-
 [![Bitcoin Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly made with Bitcoin ❤️ -->
